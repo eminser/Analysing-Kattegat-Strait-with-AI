@@ -40,27 +40,27 @@ Two types of data, static and dynamic, are kept in the AIS device:
 
 **Dynamic Data:**
 
-*1. Time information (31/12/2015 in 23:59:59 format)
+*1. Time information (31/12/2015 in 23:59:59 format)*
 
-*2. Latitude
+*2. Latitude*
 
-*3. Longitude
+*3. Longitude*
 
-*4. Navigational status (For example: 'Fishing', Anchored, etc.)
+*4. Navigational status (For example: 'Fishing', Anchored, etc.)*
 
-*5. Rate of Turn (ROT)
+*5. Rate of Turn (ROT)*
 
-*6. Speed Over Ground (SOG)
+*6. Speed Over Ground (SOG)*
 
-*7. Course Over Ground (COG)
+*7. Course Over Ground (COG)*
 
-*8. Heading
+*8. Heading*
 
-*9. Type of cargo
+*9. Type of cargo*
 
-*10. Port of Destination
+*10. Port of Destination*
 
-*11. Estimated Time of Arrival (ETA)
+*11. Estimated Time of Arrival (ETA)*
 
-*12. Data source type, eg. AIS
+*12. Data source type, eg. AIS*
 
