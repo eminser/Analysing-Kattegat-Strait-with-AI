@@ -1,7 +1,7 @@
 # Analysing-Kattegat-Strait-with-AI
 ## Ship type classification in the Kattegat Strait
 
-                          ![Resim1](https://user-images.githubusercontent.com/73931928/162428833-9e2977ae-700c-483a-90a7-643dcb3416af.png)
+![Resim1](https://user-images.githubusercontent.com/73931928/162428833-9e2977ae-700c-483a-90a7-643dcb3416af.png)
 
 
 **AIS information that we used in our machine learning model, was published as open-source by the Danish Maritime Authority. The aforementioned data were compiled from the ships transiting the Kattegat Strait between January 1st and March 10th, 2022.
