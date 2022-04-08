@@ -5,6 +5,7 @@
 
 
 **AIS information that we used in our machine learning model, was published as open-source by the Danish Maritime Authority. The aforementioned data were compiled from the ships transiting the Kattegat Strait between January 1st and March 10th, 2022.
+
 Two types of data, static and dynamic, are kept in the AIS device:
 
 **Static Information :**
